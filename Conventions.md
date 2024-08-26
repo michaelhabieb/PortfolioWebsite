@@ -28,4 +28,7 @@
 - **Resource Controllers:** Maak gebruik van resource controllers voor CRUD-functionaliteiten. Dit zorgt ervoor dat je routes consistent en overzichtelijk blijven. Bijvoorbeeld, gebruik `Route::resource('projects', ProjectController::class);` in plaats van individuele routes voor elk CRUD-verzoek.
 
 
-##  
+##  Styling Conventies
+
+- **Font:** Gebruik altijd  `voorbeeld_text_font`  als font
+- **Kleurencode:** Volg altijd het gegeven kleurenpalet
