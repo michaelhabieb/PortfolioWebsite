@@ -5,6 +5,7 @@
 1. [Algemene Conventies](#algemene-conventies)
 2. [PHP Code Conventies](#php-code-conventies)
 3. [Routing Conventies](#routing-conventies)
+4. [Styling Conventies](#styling-conventies)
 
 
 ## Algemene Conventies
